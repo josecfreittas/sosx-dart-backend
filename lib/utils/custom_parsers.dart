@@ -4,7 +4,7 @@ class CustomParsers {
       "name": devList[0],
       "github": devList[1],
       "bio": devList[2],
-      "avatar": devList[3],
+      "avatar_url": devList[3],
       "techs": devList[4],
       "latitude": devList[5],
       "longitude": devList[6],

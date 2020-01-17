@@ -27,10 +27,7 @@ POST {{host}}/devs
 Content-Type: application/json
 
 {
-  "name": "José Camelo Freitas",
   "github": "josecfreittas",
-  "bio": "dev birrento",
-  "avatar": "https://avatars1.githubusercontent.com/u/10376340?s=460&v=4",
   "techs": "vue, nuxt",
   "latitude": -9.750976,
   "longitude": -36.661964
