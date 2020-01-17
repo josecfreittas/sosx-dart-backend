@@ -1,0 +1,37 @@
+@host = http://localhost:8888
+
+### get all devs
+# @name devsGetAll
+GET {{host}}/devs
+Content-Type: application/json
+
+### get all devs with tech filter
+# @name devsGetAllWithTechFilter
+GET {{host}}/devs?techs=vue
+Content-Type: application/json
+
+### get all devs by location
+# @name devsGetAllWithLocationFilter
+GET {{host}}/devs?latitude=-9.701562&longitude=-36.687772&distance=10000
+Content-Type: application/json
+
+### get all devs by location
+# @name devsGetAllWithTechAndLocationFilters
+GET {{host}}/devs?latitude=-9.701562&longitude=-36.687772&distance=10000
+Content-Type: application/json
+
+
+### Register dev
+# @name devRegister
+POST {{host}}/devs
+Content-Type: application/json
+
+{
+  "name": "José Camelo Freitas",
+  "github": "josecfreittas",
+  "bio": "dev birrento",
+  "avatar": "https://avatars1.githubusercontent.com/u/10376340?s=460&v=4",
+  "techs": "vue, nuxt",
+  "latitude": -9.750976,
+  "longitude": -36.661964
+}
