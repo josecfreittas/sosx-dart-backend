@@ -1,4 +1,17 @@
-# sos10
+# Backend da Semana OmniStack 10, feito em Dart
+
+## A ideia e a motivação
+
+Como a Semana OmniStack aborda o desenvolvimento de um sistema simples, e como já considero ter um conhecimento satisfatório da stack Javascript (pelo menos para o que a SOS propõe), decidi experimentar trocar para uma stack completa em Dart para melhorar minhas skills com a linguagem (que já venho usando por conta do flutter).
+
+
+### Todos os repositórios:
+
+  * [Backend](https://github.com/josecfreittas/sosx-dart-backend) ([Aqueduct](https://github.com/stablekernel/aqueduct) e [PostgreSQL](https://www.postgresql.org))
+  * [Web](https://github.com/josecfreittas/sosx-dart-web) ([Flutter web](https://flutter.dev/web))
+  * [Mobile](https://github.com/josecfreittas/sosx-dart-mobile) ([Flutter](https://flutter.dev/))
+
+# Aqueduct:
 
 ## Running the Application Locally
 
