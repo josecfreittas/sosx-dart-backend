@@ -8,8 +8,8 @@ Como a Semana OmniStack aborda o desenvolvimento de um sistema simples, e como j
 ### Todos os repositórios:
 
   * [Backend](https://github.com/josecfreittas/sosx-dart-backend) ([Aqueduct](https://github.com/stablekernel/aqueduct) e [PostgreSQL](https://www.postgresql.org))
-  * [Web](https://github.com/josecfreittas/sosx-dart-web) ([Flutter web](https://flutter.dev/web))
-  * [Mobile](https://github.com/josecfreittas/sosx-dart-mobile) ([Flutter](https://flutter.dev/))
+  * Web ([Flutter web](https://flutter.dev/web)) // ainda não iniciado
+  * Mobile ([Flutter](https://flutter.dev/)) // ainda não iniciado
 
 # Aqueduct:
 
